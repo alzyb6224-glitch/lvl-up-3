@@ -1,0 +1,14 @@
+[
+  {
+    "name": "sk777",
+    "username": "sk777",
+    "email": "",
+    "password": "sk777",
+    "created": 1792245830.4102216,
+    "max_slots": 5,
+    "max_days": 30,
+    "expires_at": 1794837830.4102216,
+    "is_admin": false,
+    "active": true
+  }
+]
